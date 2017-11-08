@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BOAuthorDetailViewController done:]:BOAuthorDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BooksListViewController prepareForSegue:sender:]:BooksListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[segue destinationViewController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorDetailViewController viewDidLoad]:BOAuthorDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

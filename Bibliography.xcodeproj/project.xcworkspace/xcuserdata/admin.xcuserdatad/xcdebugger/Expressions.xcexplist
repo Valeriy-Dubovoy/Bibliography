@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BOBooksOfAuthorViewController bookDetailViewController:insertNewObjectWithName:rating:cycle:cycleOrder:author:styles:remark:]:BOBooksOfAuthorViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:titleForHeaderInSection:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.fetchedResultsController sectionIndexTitles]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:accessoryButtonTappedForRowWithIndexPath:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+            <PersistentString
+               value = "[self._editableAuthor valueForKey@&quot;secondName@]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOBooksOfAuthorViewController tableView:titleForHeaderInSection:]:BOBooksOfAuthorViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Authors(CoreDataProperties) setSecondName:]:Authors+CoreDataProperties.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sortLetter">
+            </PersistentString>
+            <PersistentString
+               value = "[self valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.secondName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController sectionIndexTitlesForTableView:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.fetchedResultsController sectionIndexTitles]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController authorDetailViewControllerUpdateCurrentObject:withFirstName:secondName:middleName:withSaving:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self._editableAuthor valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController prepareForSegue:sender:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "[sender name]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:numberOfRowsInSection:]:BOAuthorsListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController controller:didChangeObject:atIndexPath:forChangeType:newIndexPath:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newIndexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "newIndexPath.section">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "[tableView cellForRowAtIndexPath:newIndexPath]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOCyclesViewController initializeWithManagedObjectContext:Author:PickerMode:currentCycle:]:BOCyclesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[author valueForKey@&quot;secondName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController numberOfSectionsInTableView:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[self.fetchedResultsController sections] count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController configureCell:withObject:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.secondNameLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:didSelectRowAtIndexPath:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOCyclesViewController tableView:numberOfRowsInSection:]:BOCyclesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_pickerMode ? 1 : 0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorDetailViewController viewDidLoad]:BOAuthorDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self._author.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOCyclesViewController prepareForSegue:sender:]:BOCyclesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender">
+            </PersistentString>
+            <PersistentString
+               value = "[_author valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:cellForRowAtIndexPath:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController controllerDidChangeContent:]:BOAuthorsListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController authorDetailViewControllerDidSave:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self._editableAuthor valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "controller.firstNameTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorDetailViewController prepareForSegue:sender:]:BOAuthorDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.author valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOCycleDetailViewController initialaizeWithAuthor:cycle:managamentObjectContext:]:BOCycleDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_author.secondName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorsListTableViewController tableView:commitEditingStyle:forRowAtIndexPath:]:BOAuthorsListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOBookDetailViewController done:]:BOBookDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bookNameTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BOAuthorDetailViewController done:]:BOAuthorDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.author valueForKey:@&quot;secondName&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
