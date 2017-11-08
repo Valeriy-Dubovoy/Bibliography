@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  Bibliography
+
+  Created by Valeriy Dubovoy on 18.08.16.
+  Copyright © 2016 dvsoft. All rights reserved.
+*/
+
+"ERR_DBOPEN" = "Open DB Error";
+"ERR_INIT_STORAGE" = "The error occured during storage init";
+
+"ERR_MODEL_DESCRIPTION_NOT_FOUND" = "Failed to locate db model description";
+"ERR_MODEL_INIT" = "Failed to init object model from URL";
+"OK" = "OK";
+"Repeat" = "Try again";
+"Close" = "Close";
+"Cancel" = "Cancel";
+"Cancel changes" = "Cancel changes";
+"Done" = "Done";
+"Check" = "Check";
+"Save" = "Save";
+"Name" = "Name";
+"Error" = "Error";
+"Search" = "Search";
+"The name shouldn't be empty" = "The name shouldn't be empty";
+"Can't delete record" = "Can't delete the record";
+
+"Cycle" = "Cycle";
+"Cycles" = "Cycles";
+"<Out of a cycle>" = "<Out of a cycle>";
+"Check up cycle" = "Check up a cycle";
+"Can't insert cycle" = "Can't insert a cycle";
+"Can't save cycle" = "Can't save changes";
+"Cycles of the author" = "Cycles of the author";
+
+"Check up styles" = "Check up styles";
+"Style" = "Style";
+"Styles" = "Styles";
+"Styles list" = "Styles list";
+"<No styles" = "<No styles>";
+"Can't insert style" = "Can't insert a style";
+"Can't save style" = "Can't save changes";
+"Edit style" = "Edit style";
+"Add style" = "Add style";
+
+"Authors" = "Authors";
+"Author" = "Author";
+"First name" = "First name";
+"Second name" = "Second name";
+"Middle name" = "Middle name";
+"Error reading authors" = "Error reading authors";
+"Can't save the author" = "Can't save changes";
+"Can't insert author" = "Can't insert an author";
+"You should input at least Second name" = "You should input at least Second name";
+"Add an author" = "Add an author";
+
+"Remark" = "Remark";
+"Remarks" = "Remarks";
+"Choose remark" = "Check up a remark";
+"Remarks list" = "Remarks";
+"<No remark>" = "<No remark>";
+"Can't insert remark" = "Can't insert a remark";
+"Can't save remark" = "Can't save changes";
+"Edit remark" = "Edit remark";
+"Add remark" = "Add remark";
+
+"Book" = "Book";
+"Books" = "Books";
+"Rate" = "Rate";
+"Order in cycle" = "Order in cycle";
+"Show books" = "Show books";
+"Can't insert book" = "Can't insert a book";
+"Can't save the book" = "Can't save the book";
+
+"By name" = "By name";
+
+"Bibliography" = "Bibliography";
+"Version" = "Version";
+"Settings" = "Settings";
+"Information" = "Information";
+

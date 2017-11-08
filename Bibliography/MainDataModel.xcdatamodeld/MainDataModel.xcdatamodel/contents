@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Authors" representedClassName="Authors" syncable="YES">
+        <attribute name="fullName" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="middleName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="rating" optional="YES" transient="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="secondName" attributeType="String" minValueString="1" indexed="YES" syncable="YES"/>
+        <attribute name="sortLetter" attributeType="String" minValueString="1" maxValueString="1" syncable="YES"/>
+        <relationship name="books" optional="YES" toMany="YES" deletionRule="Deny" destinationEntity="Books" inverseName="author" inverseEntity="Books" syncable="YES"/>
+        <relationship name="cycles" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Cycles" inverseName="author" inverseEntity="Cycles" syncable="YES"/>
+    </entity>
+    <entity name="Books" representedClassName="Books" syncable="YES">
+        <attribute name="cycleName" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cycleOrder" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name" attributeType="String" minValueString="1" indexed="YES" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stylesAsString" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <relationship name="author" maxCount="1" deletionRule="Nullify" destinationEntity="Authors" inverseName="books" inverseEntity="Authors" syncable="YES"/>
+        <relationship name="cycle" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Cycles" inverseName="books" inverseEntity="Cycles" syncable="YES"/>
+        <relationship name="remark" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Remarks" inverseName="books" inverseEntity="Remarks" syncable="YES"/>
+        <relationship name="styles" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Styles" inverseName="books" inverseEntity="Styles" syncable="YES"/>
+    </entity>
+    <entity name="Cycles" representedClassName="Cycles" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stylesAsString" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <relationship name="author" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Authors" inverseName="cycles" inverseEntity="Authors" syncable="YES"/>
+        <relationship name="books" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Books" inverseName="cycle" inverseEntity="Books" syncable="YES"/>
+        <relationship name="styles" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Styles" inverseName="cycles" inverseEntity="Styles" syncable="YES"/>
+    </entity>
+    <entity name="Remarks" representedClassName="Remarks" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="books" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Books" inverseName="remark" inverseEntity="Books" syncable="YES"/>
+    </entity>
+    <entity name="Styles" representedClassName="Styles" syncable="YES">
+        <attribute name="name" attributeType="String" minValueString="1" syncable="YES"/>
+        <relationship name="books" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Books" inverseName="styles" inverseEntity="Books" syncable="YES"/>
+        <relationship name="cycles" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Cycles" inverseName="styles" inverseEntity="Cycles" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Authors" positionX="-54" positionY="-9" width="128" height="165"/>
+        <element name="Books" positionX="-18" positionY="45" width="128" height="180"/>
+        <element name="Cycles" positionX="-36" positionY="36" width="128" height="120"/>
+        <element name="Remarks" positionX="18" positionY="117" width="128" height="75"/>
+        <element name="Styles" positionX="0" positionY="99" width="128" height="90"/>
+    </elements>
+</model>

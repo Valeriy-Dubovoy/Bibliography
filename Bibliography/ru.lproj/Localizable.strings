@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Bibliography
+
+  Created by Valeriy Dubovoy on 18.08.16.
+  Copyright © 2016 dvsoft. All rights reserved.
+*/
+"ERR_DBOPEN" = "Ошибка открытия БД";
+"ERR_INIT_STORAGE" = "Произошла ошибка инициализации хранилища данных";
+
+"ERR_MODEL_DESCRIPTION_NOT_FOUND" = "Ошибка поиска описания модели данных";
+"ERR_MODEL_INIT" = "Ошибка создания модели данных для URL";
+"OK" = "OK";
+"Close" = "Закрыть";
+"Repeat" = "Повторить попытку";
+"Cancel" = "Отменить";
+"Cancel changes" = "Отменить изменения";
+"Done" = "Выполнить";
+"Check" = "Выбрать";
+"Save" = "Сохранить";
+"Name" = "Наименование";
+"Error" = "Ошибка";
+"Search" = "Поиск";
+"The name shouldn't be empty" = "Наименование не должно быть пустым";
+"Can't delete record" = "Ошибка удаления записи";
+
+"Cycle" = "Серия";
+"Cycles" = "Серии";
+"<Out of a cycle>" = "<Вне серии>";
+"Check up cycle" = "Выберите серию";
+"Can't insert cycle" = "Не могу добавить серию";
+"Can't save cycle" = "Не могу сохранить изменения";
+"Cycles of the author" = "Серии книг автора";
+
+"Check up styles" = "Выберите стили";
+"Style" = "Стиль";
+"Styles" = "Стили";
+"Styles list" = "Список стилей";
+"<No styles" = "<Без стиля>";
+"Can't insert style" = "Ошибка добавления стиля";
+"Can't save style" = "Не могу сохранить изменения";
+"Edit style" = "Стиль";
+"Add style" = "Добавить стиль";
+
+"Authors" = "Авторы";
+"Author" = "Автор";
+"First name" = "Имя";
+"Second name" = "Фамилия";
+"Middle name" = "Отчество";
+"Error reading authors" = "Ошибка чтения авторов";
+"Can't save the author" = "Не могу сохранить изменения";
+"Can't insert author" = "Ошибка добавления автора";
+"You should input at least Second name" = "Вы должны указать хотя бы фамилию";
+"Add an author" = "Добавить автора";
+
+"Remark" = "Примечание";
+"Remarks" = "Примечания";
+"Choose remark" = "Выберите примечание";
+"Remarks list" = "Примечания";
+"<No remark>" = "<Без примечания>";
+"Can't insert remark" = "Ошибка добавления примечания";
+"Can't save remark" = "Не могу сохранить изменения";
+"Edit remark" = "Примечание";
+"Add remark" = "Добавить примечание";
+
+"Book" = "Книга";
+"Books" = "Книги";
+"Rate" = "Оценка";
+"Order in cycle" = "Номер в серии";
+"Show books" = "Показать книги";
+"Can't insert book" = "Ошибка добавления книги";
+"Can't save the book" = "Не могу сохранить изменения";
+
+"By name" = "По наименованию";
+
+"Bibliography" = "Библиография";
+"Version" = "Версия";
+"Settings" = "Настройки";
+"Information" = "Информация";
+

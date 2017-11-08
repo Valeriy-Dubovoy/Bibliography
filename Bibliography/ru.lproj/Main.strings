@@ -1,0 +1,186 @@
+
+/* Class = "UITableViewController"; title = "Common Book List"; ObjectID = "1G6-0X-k5K"; */
+"1G6-0X-k5K.title" = "Найдены книги";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "23G-bL-gSC"; */
+"23G-bL-gSC.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "First name"; ObjectID = "26d-si-ch3"; */
+"26d-si-ch3.headerTitle" = "Имя";
+
+/* Class = "UINavigationController"; title = "nav Remark editor"; ObjectID = "4UA-Y2-Hpj"; */
+"4UA-Y2-Hpj.title" = "nav Remark editor";
+
+/* Class = "UITableViewSection"; headerTitle = "Middle name"; ObjectID = "7P7-2c-EDD"; */
+"7P7-2c-EDD.headerTitle" = "Отчество";
+
+/* Class = "UINavigationItem"; title = "Books"; ObjectID = "7jM-K2-UXK"; */
+"7jM-K2-UXK.title" = "Книги";
+
+/* Class = "UISearchBar"; 8UN-2Q-4pV.scopeButtonTitles[0] = "Title"; ObjectID = "8UN-2Q-4pV"; */
+"8UN-2Q-4pV.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; 8UN-2Q-4pV.scopeButtonTitles[1] = "Title"; ObjectID = "8UN-2Q-4pV"; */
+"8UN-2Q-4pV.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Styles"; ObjectID = "8dU-EG-bM7"; */
+"8dU-EG-bM7.text" = "Стили";
+
+/* Class = "UITextField"; placeholder = "input second name"; ObjectID = "Acf-DE-igQ"; */
+"Acf-DE-igQ.placeholder" = "Введите фамилию";
+
+/* Class = "UITableViewSection"; headerTitle = "Author"; ObjectID = "Ars-AT-aXz"; */
+"Ars-AT-aXz.headerTitle" = "Автор";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "B6g-Jk-Kil"; */
+"B6g-Jk-Kil.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "D4Z-oC-zLl"; */
+"D4Z-oC-zLl.headerTitle" = "Наименование";
+
+/* Class = "UILabel"; text = "remark"; ObjectID = "DDc-ui-b2v"; */
+"DDc-ui-b2v.text" = "remark";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "EF0-Vz-Qxj"; */
+"EF0-Vz-Qxj.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "FNT-Ig-wx1"; */
+"FNT-Ig-wx1.title" = "Дополнительно";
+
+/* Class = "UITableViewSection"; headerTitle = "Second name"; ObjectID = "Ff6-Kd-Nay"; */
+"Ff6-Kd-Nay.headerTitle" = "Фамилия";
+
+/* Class = "UITabBarItem"; title = "Authors"; ObjectID = "GBM-px-Z1r"; */
+"GBM-px-Z1r.title" = "Авторы";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "Gbj-S0-nET"; */
+"Gbj-S0-nET.headerTitle" = "Наименование";
+
+/* Class = "UITableViewController"; title = "Cycle editor"; ObjectID = "GnT-pZ-kHq"; */
+"GnT-pZ-kHq.title" = "Серия";
+
+/* Class = "UINavigationController"; title = "nav Cycle Editor"; ObjectID = "HWa-Wn-N01"; */
+"HWa-Wn-N01.title" = "nav Cycle Editor";
+
+/* Class = "UINavigationController"; title = "nav Author Editor"; ObjectID = "HrA-62-Juo"; */
+"HrA-62-Juo.title" = "nav Author Editor";
+
+/* Class = "UILabel"; text = "secondName"; ObjectID = "JcJ-IZ-ohc"; */
+"JcJ-IZ-ohc.text" = "secondName";
+
+/* Class = "UITableViewSection"; headerTitle = "Rate"; ObjectID = "KSi-hx-RUs"; */
+"KSi-hx-RUs.headerTitle" = "Оценка";
+
+/* Class = "UINavigationController"; title = "nav Book Editor"; ObjectID = "Ld1-Zg-GNa"; */
+"Ld1-Zg-GNa.title" = "nav Book Editor";
+
+/* Class = "UINavigationController"; title = "nav Search"; ObjectID = "MPo-WX-M1N"; */
+"MPo-WX-M1N.title" = "nav Search";
+
+/* Class = "UINavigationItem"; title = "Author"; ObjectID = "Mfe-rR-npD"; */
+"Mfe-rR-npD.title" = "Автор";
+
+/* Class = "UINavigationItem"; title = "Edit remark"; ObjectID = "NxR-3f-WON"; */
+"NxR-3f-WON.title" = "Изменить";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Pua-Mn-KFL"; */
+"Pua-Mn-KFL.text" = "0";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "RXe-SE-Miv"; */
+"RXe-SE-Miv.headerTitle" = "Наименование";
+
+/* Class = "UILabel"; text = "Show books"; ObjectID = "RmL-Wx-k2e"; */
+"RmL-Wx-k2e.text" = "Показать книги";
+
+/* Class = "UINavigationItem"; title = "Authors"; ObjectID = "Sie-0K-QLL"; */
+"Sie-0K-QLL.title" = "Авторы";
+
+/* Class = "UILabel"; text = "Styles"; ObjectID = "SnA-EK-eSK"; */
+"SnA-EK-eSK.text" = "Стили";
+
+/* Class = "UITableViewController"; title = "Edit remark"; ObjectID = "T13-ku-4kZ"; */
+"T13-ku-4kZ.title" = "Изменить";
+
+/* Class = "UILabel"; text = "Book name"; ObjectID = "UaF-sw-zud"; */
+"UaF-sw-zud.text" = "Наименование";
+
+/* Class = "UITableViewSection"; headerTitle = "Name"; ObjectID = "VAA-M1-TX6"; */
+"VAA-M1-TX6.headerTitle" = "Наименование";
+
+/* Class = "UITableViewSection"; headerTitle = "Cycle"; ObjectID = "XJo-cM-jUI"; */
+"XJo-cM-jUI.headerTitle" = "Серия";
+
+/* Class = "UINavigationItem"; title = "Book"; ObjectID = "a6P-pn-fF0"; */
+"a6P-pn-fF0.title" = "Книга";
+
+/* Class = "UILabel"; text = "Remarks"; ObjectID = "c6m-xX-l2o"; */
+"c6m-xX-l2o.text" = "Примечания";
+
+/* Class = "UILabel"; text = "Show books"; ObjectID = "dzp-aF-45B"; */
+"dzp-aF-45B.text" = "Показать книги";
+
+/* Class = "UINavigationController"; title = "nav Settings"; ObjectID = "erz-Sn-uZv"; */
+"erz-Sn-uZv.title" = "nav Settings";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gEI-dT-RWg"; */
+"gEI-dT-RWg.text" = "Наименование";
+
+/* Class = "UITableViewSection"; headerTitle = "Author"; ObjectID = "ggf-sh-sMH"; */
+"ggf-sh-sMH.headerTitle" = "Автор";
+
+/* Class = "UINavigationItem"; title = "Cycle"; ObjectID = "hqx-Sk-Kui"; */
+"hqx-Sk-Kui.title" = "Серия";
+
+/* Class = "UINavigationItem"; title = "Cycles"; ObjectID = "i4q-IW-nn3"; */
+"i4q-IW-nn3.title" = "Серии";
+
+/* Class = "UITableViewSection"; headerTitle = "Order in cycle"; ObjectID = "jrC-dZ-OP7"; */
+"jrC-dZ-OP7.headerTitle" = "Номер в серии";
+
+/* Class = "UITableViewSection"; headerTitle = "Information"; ObjectID = "lmp-Iy-UtV"; */
+"lmp-Iy-UtV.headerTitle" = "Дополнительно";
+
+/* Class = "UINavigationController"; title = "nav Style editor"; ObjectID = "lo3-Bp-2P2"; */
+"lo3-Bp-2P2.title" = "nav Style editor";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "nRP-XN-Vvb"; */
+"nRP-XN-Vvb.text" = "Наименование";
+
+/* Class = "UITableViewController"; title = "Authors"; ObjectID = "pAk-6X-lhM"; */
+"pAk-6X-lhM.title" = "Авторы";
+
+/* Class = "UITableViewController"; title = "Remark list"; ObjectID = "pEg-LL-gJS"; */
+"pEg-LL-gJS.title" = "Примечания";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "pjg-2V-mnv"; */
+"pjg-2V-mnv.title" = "Поиск";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qeb-Ys-ZdM"; */
+"qeb-Ys-ZdM.text" = "Title";
+
+/* Class = "UILabel"; text = "Remark"; ObjectID = "rZF-xi-jhD"; */
+"rZF-xi-jhD.text" = "Примечание";
+
+/* Class = "UITableViewSection"; headerTitle = "Styles"; ObjectID = "uU9-5M-Rlq"; */
+"uU9-5M-Rlq.headerTitle" = "Стили";
+
+/* Class = "UINavigationItem"; title = "Style detail"; ObjectID = "uaL-nt-2YF"; */
+"uaL-nt-2YF.title" = "Style detail";
+
+/* Class = "UILabel"; text = "Cycles of the author"; ObjectID = "v5K-vb-NQ1"; */
+"v5K-vb-NQ1.text" = "Серии автора";
+
+/* Class = "UITableViewSection"; headerTitle = "Remark"; ObjectID = "xiV-Kn-ICe"; */
+"xiV-Kn-ICe.headerTitle" = "Примечание";
+
+/* Class = "UITableViewSection"; headerTitle = "By name"; ObjectID = "yLY-Sh-wsz"; */
+"yLY-Sh-wsz.headerTitle" = "По наименованию";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "yNL-UD-GZ3"; */
+"yNL-UD-GZ3.title" = "Поиск";
+
+/* Class = "UILabel"; text = "Styles"; ObjectID = "zBy-FY-dgR"; */
+"zBy-FY-dgR.text" = "Стили";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "zcA-zE-MJV"; */
+"zcA-zE-MJV.title" = "Установки";
